@@ -23,5 +23,5 @@ Mac OS BigSur 11.2
 16. NVME
 
 # Not Work
-1.FingerPrint
-Nvidia MX150
+1. FingerPrint
+2. Nvidia MX150
