@@ -1,4 +1,4 @@
-# T480-BigSur-11.2
+# Lenovo ThinkPad T480-BigSur-11.2
 * Intel i7 8550 (2.0 GHz)
 * 16GB DD4
 * Dual NVME (2 X 512GB)
